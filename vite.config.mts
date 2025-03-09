@@ -73,7 +73,7 @@ export default defineConfig({
       },
     },
   },
-  base: "/vuetify-audio-mixer/", // Adjusted for GitHub Pages deployment
+  base: "/audio-mixer/", // Adjusted for GitHub Pages deployment
   build: {
     outDir: "dist",
   },
